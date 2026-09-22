@@ -1,5 +1,5 @@
 # Agricultural Business Intelligence & Power BI Portfolio
-*Developed by:* **Abegail Vanjo (Abiy) G. Verdugo** | *Information Systems Analyst II / Data Analyst* 
+**Developed by:* **Abegail Vanjo (Abiy) G. Verdugo** | *Information Systems Analyst II / Data Analyst* 
 **Department of Agriculture RFO VI — Rice Program & Agricultural Statistics**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiyverdugo/)
