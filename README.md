@@ -89,16 +89,32 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 
 ---
 
-## 📂 Source Data Repository
-All foundational datasets powering these dashboards are cleaned, normalized, and maintained in the regional data hub:  
-📁 [Department of Agriculture VI — Annual Rice Data Performance Master Drive](https://drive.google.com/drive/folders/1LoTjXaEkn69dNkXF-kReowymCqu7T7PB)
+---
+
+## 🔒 Data Source & Governance
+The analytical models in this portfolio are developed using regional agricultural statistics and operational records provided by the **Department of Agriculture Regional Field Office VI (Rice Program & Agricultural Statistics)**. 
+
+> *Note: In compliance with government data management and privacy standards, raw operational datasets and internal administrative drives are restricted and not publicly accessible. Public interactive reports display aggregated, non-sensitive summary indicators for analytical demonstration.*
 
 ---
 
-## 📬 Contact & Professional Links
-* **Name:** Abegail Vanjo (Abiy) G. Verdugo  
-* **Title:** Information Systems Analyst II / Data Analyst  
-* **Agency:** Department of Agriculture Regional Field Office VI  
-* **LinkedIn:** [linkedin.com/in/abiyverdugo](https://www.linkedin.com/in/abiyverdugo/)  
-* **GitHub:** [github.com/abiyverdugo](https://github.com/abiyverdugo)  
-* **Email:** [abegailvanjoverdugo@gmail.com](mailto:abegailvanjoverdugo@gmail.com)
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abiyverdugo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/abiyverdugo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:abegailvanjoverdugo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Department of Agriculture — Regional Field Office VI (Western Visayas)</b><br/>
+  <i>Information Systems Analyst II / Data Analyst</i>
+</p>
