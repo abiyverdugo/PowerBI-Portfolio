@@ -117,6 +117,11 @@ The analytical models in this portfolio are developed using regional agricultura
 </p>
 
 <p align="center">
-  <b>Department of Agriculture — Regional Field Office VI (Western Visayas)</b><br/>
-  <i>Information Systems Analyst II / Data Analyst</i>
+  <b>Abegail Vanjo (Abiy) G. Verdugo</b><br/>
+  <i>Information Systems Analyst II / Data Analyst</i><br/>
+  Department of Agriculture — Regional Field Office VI (Western Visayas)
+</p>
+
+<p align="center">
+  <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
 </p>
