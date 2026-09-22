@@ -1,66 +1,104 @@
-# 🌾 Agricultural Business Intelligence & Power BI Portfolio
+# Agricultural Business Intelligence & Power BI Portfolio
 **Department of Agriculture RFO VI — Rice Program & Agricultural Statistics**  
-*Lead Analyst:* **Abegail Vanjo G. Verdugo** | *Information Systems Analyst II*
+*Curated by:* **Abegail Vanjo (Abiy) G. Verdugo** | *Information Systems Analyst II / Data Analyst*
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Desktop_%26_Service-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-Advanced_Modeling-045C36)](https://learn.microsoft.com/en-us/dax/)
-[![Power Query](https://img.shields.io/badge/Power_Query-ETL_%26_M_Code-238636)](https://learn.microsoft.com/en-us/power-query/)
-[![DA-RFO VI](https://img.shields.io/badge/Agency-DA_RFO_VI_Western_Visayas-0A5C36)](#)
-
-Welcome to my Power BI Portfolio. This repository showcases interactive Business Intelligence dashboards, dimensional data modeling, and custom DAX solutions developed for agricultural statistics, climate resilience, and operational monitoring across Western Visayas (Aklan, Antique, Capiz, Guimaras, and Iloilo).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiyverdugo/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abiyverdugo)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abegailvanjoverdugo@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills & Tools
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-045C36?style=for-the-badge&logo=dax&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-238636?style=for-the-badge&logo=powerquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 ---
 
-### [01. Rice Planting Trends & Climate Variability (El Niño)](./01-Rice-Planting-Trends-El-Niño/)
+## 👤 About the Author
+
+I am an **Information Systems Analyst II / Data Analyst** at the Department of Agriculture Regional Field Office VI (Western Visayas). My primary focus involves architecting automated data pipelines, developing executive Business Intelligence reports, and performing climate shock and economic viability evaluations across Panay and Guimaras (Aklan, Antique, Capiz, Guimaras, and Iloilo).
+
+* **Education:** B.S. in Computer Science
+* **Domain:** Agricultural Statistics, Climate Impact Analysis, Farmgate Economics, and Production Benchmarking
+* **Data Sources:** Cleaned and normalized from regional master datasets including historical production records (2016–2026), cost-of-production structures, and weekly palay price monitoring systems.
+
+---
+
+## 🌾 Featured Projects
+
+---
+
+### [01. Rice Planting Trends & Climate Variability (El Niño Analysis)](./01-Rice-Planting-Trends-El-Ni%C3%B1o/)
 
 [![View Live Dashboard](https://img.shields.io/badge/Power_BI_Live_Report-View_Interactive_Dashboard-0A5C36?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiODdlYmRiMDMtNDI0MS00NmRiLTk0YTItNmViNWE4NGRiZTM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D)
-[![Read Case Study](https://img.shields.io/badge/Documentation-Read_Full_Case_Study-blue?style=for-the-badge&logo=github)](./01-Rice-Planting-Trends-El-Niño/)
+[![Read Case Study](https://img.shields.io/badge/Documentation-Read_Full_Case_Study-blue?style=for-the-badge&logo=github)](./01-Rice-Planting-Trends-El-Ni%C3%B1o/)
 
-#### 📸 Dashboard Preview
-[![Rice Planting Trends Full Preview](./01-Rice-Planting-Trends-El-Niño/Rice%20Planting%20Trends%201.png)](./01-Rice-Planting-Trends-El-Niño/)
+#### 📸 Dashboard Preview (Click image to open project)
+<p align="center">
+  <a href="./01-Rice-Planting-Trends-El-Ni%C3%B1o/">
+    <img src="./01-Rice-Planting-Trends-El-Ni%C3%B1o/Rice%20Planting%20Trends%201.png" alt="Rice Planting Trends Dashboard Preview" width="100%"/>
+  </a>
+</p>
 
-#### 📌 Overview & Business Value
-* **Operational Problem:** Field data from municipal agriculture offices was isolated across fragmented yearly sheets (2018–2026), preventing program officers from tracking monsoon delays and planting disruptions during recurring El Niño episodes.
-* **The Solution:** A centralized multi-year monitoring dashboard establishing an automated 3-year baseline benchmark (`Normal Year Average 2020–2022`) against confirmed El Niño cycles (`2018`, `2019`, `2023`, `2024`, and `2025`).
-* **Key Findings:** Revealed an approximate two-month lag in peak planting during extreme dry spells, with rainfed farming systems sustaining over 55% of the overall regional climate risk exposure.
+#### 📌 Overview & Operational Value
+* **Business Problem:** Municipal-level rice planting submissions were recorded across disconnected yearly sheets (2018–2026), making it difficult for regional executives to detect seasonal planting shifts or calculate delays caused by extreme El Niño cycles.
+* **The Analytics Solution:** Built a 2-page time-series monitoring dashboard appending 9 years of regional data, establishing an automated 3-year baseline benchmark (`Normal Year Average 2020–2022`) against historical and active El Niño years (`2018`, `2019`, `2023`, `2024`, and `2025`).
+* **Key Findings:** Revealed that severe drought pushed seasonal peak planting back by two months (from June/July into August/September), with rainfed systems bearing more than 55% of total climate vulnerability across Western Visayas.
+* **Data Foundation:** Normalized from the master file `NORMALIZED Planting (2016-2026)` and regional reporting platforms.
 
-#### 🛠️ Tech Stack & Implementation
-* **Tools:** Power BI Desktop, Power BI Service, Power Query (M Language), DAX
-* **Data Transformations:** Multi-year append across heterogeneous yearly schemas, province/municipality cross-referencing, conditional climate epoch flags
-* **Featured DAX Logic:** Dynamic baseline switching (`AVERAGEX`, `CALCULATE`, `HASONEVALUE`, `COALESCE`)
+#### 🛠️ Tech Stack & Methods
+* **Tools:** Power BI Desktop, Power BI Service, Power Query (M), Advanced DAX
+* **Key Technique:** Dynamic Baseline DAX Measure (`AVERAGEX`, `CALCULATE`, `HASONEVALUE`), custom temporal groupings, and spatial planting density maps.
 
-👉 **[Explore Full Project Documentation & DAX Breakdown →](./01-Rice-Planting-Trends-El-Niño/)**
-
----
-
-### 02. Panay Rice Cost Structure 2025 *(Coming Next)*
-* **Focus:** Cost of production per kilogram, line-item cost drivers, break-even thresholds, and return on investment (ROI) ranking across production methods (Irrigated vs Rainfed, Hybrid vs Inbred, TPR vs DSR).
-* **Core Technique:** Disconnected metric matrix tables, custom dynamic currency format strings (`/kg`).
+👉 **[Explore Full Project Case Study & DAX Code →](./01-Rice-Planting-Trends-El-Ni%C3%B1o/)**
 
 ---
 
-### 03. Rice Price Monitoring 2026 *(Coming Next)*
-* **Focus:** Weekly palay farmgate and retail milled rice price dynamics across 5 provinces in Region VI.
-* **Core Technique:** Clustered variance tracking, KPI callouts, dynamic price trend visual containers.
+### [02. Panay Rice Cost Structure & Profitability 2025](#) *(In Development)*
+
+* **Domain:** Agricultural Economics, Break-Even Analysis, Farm Profitability
+* **Summary:** Compares production methods (Irrigated vs. Rainfed, Hybrid vs. Inbred, Mechanical TPR vs. Direct Wet Seeding) across unit costs, break-even thresholds (₱/kg and kg/ha), and Return on Investment (ROI %).
+* **Data Source:** `Cost Structure (Rainfed and Irrigated)` master workbook.
+* **Core Technique:** Disconnected metric matrix tables, Dynamic Format Strings (`/kg`), and line-item cost drivers.
 
 ---
 
-## 📋 Portfolio Catalog
+### [03. Panay Rice Price Monitoring 2026](#) *(In Development)*
 
-| Project | Domain | Key Tech | Live Demo | Case Study |
-| :--- | :--- | :--- | :---: | :---: |
-| **01. Rice Planting Trends & El Niño** | Climate shock impact, monthly planting shifts, baseline benchmarking | Power Query, DAX, Time Series | [Live Report](https://app.powerbi.com/view?r=eyJrIjoiODdlYmRiMDMtNDI0MS00NmRiLTk0YTItNmViNWE4NGRiZTM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) | [View Case Study](./01-Rice-Planting-Trends-El-Niño/) |
-| **02. Panay Rice Cost Structure 2025** | Unit costs, ROI ranking, break-even benchmarks | Disconnected Matrix, Dynamic Formatting | *Pending Upload* | *Pending Upload* |
-| **03. Rice Price Monitoring 2026** | Weekly palay & milled rice farmgate / market tracking | Multi-card layout, Dynamic `/kg` strings | *Pending Upload* | *Pending Upload* |
+* **Domain:** Market Intelligence & Weekly Farmgate Price Fluctuations
+* **Summary:** Real-time tracking of fresh palay, dry palay, regular milled rice (RMR), and well-milled rice (WMR) across all 5 Panay-Guimaras provinces.
+* **Data Source:** `Price Monitoring 2026` weekly LGU feeds.
+* **Core Technique:** Multi-card visual layouts, price spread variance measures, and dynamic format strings.
 
 ---
 
-## 📬 Contact & Credentials
-* **Analyst:** Abegail Vanjo G. Verdugo
-* **Role:** Information Systems Analyst II / Data Analyst
-* **Organization:** Department of Agriculture Regional Field Office VI (Western Visayas)
-* **GitHub Profile:** [@abiyverdugo](https://github.com/abiyverdugo)
+## 📋 Comprehensive Project Catalog
+
+| # | Project Name | Primary Focus | Modeling Architecture | Case Study | Interactive Demo |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| **01** | **Rice Planting Trends & El Niño Variability** | Climate shock analysis, delayed monsoon peaks, baseline benchmarking | Multi-year append, dynamic baseline DAX | [View Project](./01-Rice-Planting-Trends-El-Ni%C3%B1o/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODdlYmRiMDMtNDI0MS00NmRiLTk0YTItNmViNWE4NGRiZTM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+| **02** | **Panay Rice Cost Structure 2025** | Production unit costs, ROI ranking, break-even benchmarks | Disconnected matrix, dynamic `/kg` formatting | *In Development* | *Coming Soon* |
+| **03** | **Rice Price Monitoring 2026** | Weekly farmgate palay & retail milled rice dynamics | Multi-card layout, dynamic format strings | *In Development* | *Coming Soon* |
+
+---
+
+## 📂 Source Data Repository
+All foundational datasets powering these dashboards are cleaned, normalized, and maintained in the regional data hub:  
+📁 [Department of Agriculture VI — Annual Rice Data Performance Master Drive](https://drive.google.com/drive/folders/1LoTjXaEkn69dNkXF-kReowymCqu7T7PB)
+
+---
+
+## 📬 Contact & Professional Links
+* **Name:** Abegail Vanjo (Abiy) G. Verdugo  
+* **Title:** Information Systems Analyst II / Data Analyst  
+* **Agency:** Department of Agriculture Regional Field Office VI  
+* **LinkedIn:** [linkedin.com/in/abiyverdugo](https://www.linkedin.com/in/abiyverdugo/)  
+* **GitHub:** [github.com/abiyverdugo](https://github.com/abiyverdugo)  
+* **Email:** [abegailvanjoverdugo@gmail.com](mailto:abegailvanjoverdugo@gmail.com)
