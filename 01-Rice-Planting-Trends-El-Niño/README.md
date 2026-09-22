@@ -31,7 +31,7 @@ Western Visayas (Region VI) serves as a primary rice production hub in the Phili
 ## Dashboard Visuals & Structure
 
 ### Page 1: El Niño Years Trends (Temporal & Baseline Comparison)
-![Rice Planting Trends 1](images/Rice%20Planting%20Trends%201.png)
+![Rice Planting Trends 1](Rice%20Planting%20Trends%201.png)
 
 * **Monthly Planting Area Trend Line**: Compares monthly trajectories across each El Niño year, current year (2026), and the 3-year baseline normal average (2020–2022).
 * **Planting Area Distribution Donut**: Summarizes the volume of total hectares tracked across all evaluated cycles.
@@ -39,7 +39,7 @@ Western Visayas (Region VI) serves as a primary rice production hub in the Phili
 * **Multi-Attribute Filter Slicers**: Dynamic slicing by Quarter, Month, Ecosystem, Sub-Ecosystem, and Seed Type (Certified, Hybrid, Good, Farmer Saved).
 
 ### Page 2: El Niño Geospatial & Distribution Profile
-![Rice Planting Trends 2](images/Rice%20Planting%20Trends%202.png)
+![Rice Planting Trends 2](Rice%20Planting%20Trends%202.png)
 
 * **Geospatial Concentration**: Visualizes regional distribution of planting operations across the Panay-Guimaras area.
 * **Ecosystem Shift Bars**: Highlights the planting balance between irrigated areas and climate-vulnerable rainfed systems.
