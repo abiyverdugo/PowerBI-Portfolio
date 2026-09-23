@@ -32,7 +32,7 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 ## 📸 Dashboard Visuals & Structure
 
 ### Page 1: Annual Planting Performance (2016–2026)
-![Annual Planting 2016-2026](Annual%20Planting%202016-2026.jpg)
+![Annual Planting 2016-2026](Annual%20Planting%202016-2026.png)
 
 * **Top-Level KPI Strip:** Displays total cumulative planted area (5.09M ha), regional physical footprint (258K ha), and multi-year accomplishment rate.
 * **Seed Class Adoption by Province:** Stacked visual breakdown analyzing the distribution of Certified Seeds (CS), Good Seeds (GS), Farmer Saved Seeds (FSS), and Hybrid Seeds across Aklan, Antique, Capiz, Guimaras, and Iloilo.
@@ -43,7 +43,7 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 ---
 
 ### Page 2: Seasonal Cropping Dynamics (Dry vs. Wet Season)
-![Seasonal Planting 2016-2026](Seasonal%20Planting%202016-2026.jpg)
+![Seasonal Planting 2016-2026](Seasonal%20Planting%202016-2026.png)
 
 * **Dry Season vs. Wet Season Cycles:** Evaluates crop rotation shifts and compares seasonal performance against annual production targets.
 * **Seasonal Planting Percentage Trends:** Year-over-year progression evaluating variance across cropping calendars.
