@@ -1,3 +1,5 @@
+<div align="center">
+
 # Western Visayas Rice Planting Analytics (Annual & Seasonal Monitoring 2016–2026)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop_%26_Service-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -6,19 +8,27 @@
 [![Region](https://img.shields.io/badge/Region-Western_Visayas_(Panay_--_Guimaras)-0A5C36)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success)](#)
 
+<p>
 A centralized Business Intelligence dashboard engineered for the Department of Agriculture Regional Field Office VI (Field Operations Division, Rice Program & Agricultural Statistics). This platform automates the ingestion, transformation, and comparative tracking of a decade of municipal planting accomplishments against physical rice areas across Panay and Guimaras.
+</p>
+
+</div>
 
 ---
 
-## 📊 Live Interactive Dashboard
+<h2 align="center">📊 Live Interactive Dashboard</h2>
+
+<div align="center">
 
 Explore the live, interactive Power BI report:
 
 👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc0ZGFkMjEtMTZmOS00Zjg1LWI4ODYtMDc0ZDA3NTg0ZWM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D)**
 
+</div>
+
 ---
 
-## 🎯 Executive Summary & Operational Challenge
+<h2 align="center">🎯 Executive Summary & Operational Challenge</h2>
 
 Evaluating rice planting accomplishments across Western Visayas historically required aggregating municipal monthly submissions scattered across disparate Excel files, fluctuating column layouts, and irregular seed-type classifications.
 
@@ -29,10 +39,17 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 
 ---
 
-## 📸 Dashboard Visuals & Structure
+<h2 align="center">📸 Dashboard Visuals & Structure</h2>
+
+<div align="center">
 
 ### Page 1: Annual Planting Performance (2016–2026)
-![Annual Planting 2016-2026](Annual%20Planting%202016-2026.png)
+
+<p align="center">
+  <img src="Annual%20Planting%202016-2026.png" alt="Annual Planting 2016-2026" width="100%" />
+</p>
+
+</div>
 
 * **Top-Level KPI Strip:** Displays total cumulative planted area (5.09M ha), regional physical footprint (258K ha), and multi-year accomplishment rate.
 * **Seed Class Adoption by Province:** Stacked visual breakdown analyzing the distribution of Certified Seeds (CS), Good Seeds (GS), Farmer Saved Seeds (FSS), and Hybrid Seeds across Aklan, Antique, Capiz, Guimaras, and Iloilo.
@@ -42,8 +59,15 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 
 ---
 
+<div align="center">
+
 ### Page 2: Seasonal Cropping Dynamics (Dry vs. Wet Season)
-![Seasonal Planting 2016-2026](Seasonal%20Planting%202016-2026.png)
+
+<p align="center">
+  <img src="Seasonal%20Planting%202016-2026.png" alt="Seasonal Planting 2016-2026" width="100%" />
+</p>
+
+</div>
 
 * **Dry Season vs. Wet Season Cycles:** Evaluates crop rotation shifts and compares seasonal performance against annual production targets.
 * **Seasonal Planting Percentage Trends:** Year-over-year progression evaluating variance across cropping calendars.
@@ -51,7 +75,7 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 
 ---
 
-## 🔬 Agricultural Insights Delivered
+<h2 align="center">🔬 Agricultural Insights Delivered</h2>
 
 1. **Provincial Scale & Density:** Iloilo accounts for over 51% of regional planted area, followed by Capiz (~20%) and Antique (~16%), highlighting key zones for farm input allocation and machinery deployment.
 2. **Seed Class Modernization:** Certified Seeds (CS) represent the largest share of planted hectares (51.47%), while Farmer Saved Seeds (FSS) comprise 22.4% and Good Seeds (GS) 15.93%, demonstrating adoption progress while pinpointing areas needing seed support.
@@ -59,7 +83,7 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 
 ---
 
-## 🏗️ Data Architecture & ETL Pipeline
+<h2 align="center">🏗️ Data Architecture & ETL Pipeline</h2>
 
 ```text
 +--------------------------------------------------------------------------------+
@@ -88,7 +112,7 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 
 ---
 
-## 💻 Core DAX Formulas
+<h2 align="center">💻 Core DAX Formulas</h2>
 
 ### 1. Accomplishment Rate
 ```dax
@@ -172,45 +196,4 @@ IF(
         "▲ +" & FORMAT(Growth, "0.0%"), 
         IF(
             Growth < 0, 
-            "▼ " & FORMAT(Growth, "0.0%"), 
-            "0.0%"
-        )
-    )
-)
-```
-
----
-
-## 🛠️ Tools & Technologies Used
-* **Business Intelligence Platform:** Power BI Desktop, Power BI Service
-* **Data Modeling:** Star Schema Design, Bi-directional Cross-filtering, Disconnected Benchmarking
-* **ETL & Data Engineering:** Power Query (M Language), Web API Google Sheet Integration, Dynamic Column Unpivoting
-* **Data Governance:** Standardized validation logic filtering non-administrative records and subtotal rows
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abiyverdugo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/abiyverdugo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:abegailvanjoverdugo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Abegail Vanjo (Abiy) G. Verdugo</b><br/>
-  <i>Information Systems Analyst II / Data Analyst</i><br/>
-  Department of Agriculture — Regional Field Office VI (Western Visayas)
-</p>
-
-<p align="center">
-  <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
-</p>
+            "▼ "
