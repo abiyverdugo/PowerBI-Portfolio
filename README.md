@@ -67,7 +67,7 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 #### 📸 Dashboard Preview
 <p align="center">
   <a href="./02-Panay-Annual-and-Seasonal-Planting-2016-2026/">
-    <img src="./02-Panay-Annual-and-Seasonal-Planting-2016-2026/Annual%20Planting%202016-2026.jpg" alt="Annual Planting Dashboard Preview" width="100%"/>
+    <img src="https://raw.githubusercontent.com/abiyverdugo/PowerBI-Portfolio/main/02-Panay-Annual-and-Seasonal-Planting-2016-2026/Annual%20Planting%202016-2026.png" alt="Annual Planting Dashboard Preview" width="100%"/>
   </a>
 </p>
 
