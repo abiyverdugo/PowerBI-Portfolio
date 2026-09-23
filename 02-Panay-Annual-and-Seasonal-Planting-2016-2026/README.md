@@ -1,4 +1,4 @@
-# Panay & Guimaras Rice Planting Analytics (Annual & Seasonal Monitoring 2016–2026)
+# Western Visayas Rice Planting Analytics (Annual & Seasonal Monitoring 2016–2026)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop_%26_Service-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Dynamic_Cross--Filtering-045C36)](https://learn.microsoft.com/en-us/dax/)
