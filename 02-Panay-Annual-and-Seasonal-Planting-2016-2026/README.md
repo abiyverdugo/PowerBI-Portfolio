@@ -85,30 +85,36 @@ Evaluating rice planting accomplishments across Western Visayas historically req
 
 <h2 align="center">🏗️ Data Architecture & ETL Pipeline</h2>
 
-```text
-+--------------------------------------------------------------------------------+
-| Master Data Storage: OneDrive / Google Drive Regional Repositories             |
-| - 12 Monthly Tabs / Workbook (2016-2025 Annual & Seasonal Directories)         |
-| - Live 2026 Wet Season Google Sheet Feed (Published Cloud Endpoint)            |
-+---------------------------------------+----------------------------------------+
-                                        |
-                                        v
-+--------------------------------------------------------------------------------+
-| Power Query (M Language) Automated Data Ingestion                              |
-| - Schema transpose & header extraction (Skipping metadata lines)                |
-| - Location standardization: Strict validation for 5 Western Visayas provinces  |
-| - Dynamic unpivoting of 16 seed/ecosystem matrix headers                       |
-| - Live 2026 append with historical records; deduplication by business keys     |
-+---------------------------------------+----------------------------------------+
-                                        |
-                                        v
-+--------------------------------------------------------------------------------+
-| Dimensional Modeling & DAX Calculation Engine                                 |
-| - Tables: 'Planting Annual', 'Planting Seasonal', 'Municipality Physical Area' |
-| - Dynamic DAX Accomplishment Measures ([Planted Area] / [Physical Area])       |
-| - Dynamic YoY growth calculation and conditional indicator formatting          |
-+--------------------------------------------------------------------------------+
-```
+<div align="center">
+
+<table width="85%">
+  <tr>
+    <td align="center" style="padding: 14px;">
+      <b>📂 Master Data Sources & Regional Storage</b><br/>
+      <sub>OneDrive & Google Drive Regional Repositories • 12 Monthly Tabs / Workbook (2016–2025) • Live 2026 Cloud Endpoint</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⬇️</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 14px;">
+      <b>⚙️ Power Query (M Language) Automated ETL Pipeline</b><br/>
+      <sub>Schema Transpose & Header Normalization • 5 Western Visayas Provinces Strict Validation • Dynamic 16-Column Unpivoting • Automated 2026 Append</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⬇️</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 14px;">
+      <b>📊 Dimensional Modeling & DAX Calculation Layer</b><br/>
+      <sub>Star Schema Architecture • Bi-Directional Cross-Filtering • Double-Counting Prevention • Dynamic Multi-Year Accomplishment Measures</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
