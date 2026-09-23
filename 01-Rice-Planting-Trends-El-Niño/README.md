@@ -23,9 +23,9 @@ Explore the live, interactive Power BI report:
 Severe climatic shock events such as El Niño create major operational uncertainty for rice farmers across Western Visayas. When rainfall is delayed or curtailed, farmers delay field preparation and transplanting, concentrating harvesting operations into wet, typhoon-prone months.
 
 ### Core Problems Solved:
-* **The Normal Baseline Benchmark Problem:** Comparing individual years directly against single prior years created volatility. By aggregating non-El Niño cropping years (`2020`, `2021`, `2022`) into an automated dynamic baseline (`Normal Year Average (2020–2022)`), regional decision-makers gained an objective benchmark to measure real crop shifts[cite: 33].
+* **The Normal Baseline Benchmark Problem:** Comparing individual years directly against single prior years created volatility. By aggregating non-El Niño cropping years (`2020`, `2021`, `2022`) into an automated dynamic baseline (`Normal Year Average (2020–2022)`), regional decision-makers gained an objective benchmark to measure real crop shifts.
 * **Dynamic Year-Level Aggregation:** Normal reporting summed multi-year areas into inflated numbers. An iterative `AVERAGEX` DAX measure dynamically computes true annual averages when multiple years are grouped while preserving exact figures when single years are selected.
-* **Ecosystem Vulnerability Mapping:** Separated irrigated gravity systems from rainfed lowland and upland zones to pinpoint exactly where water shortages stop field work[cite: 33].
+* **Ecosystem Vulnerability Mapping:** Separated irrigated gravity systems from rainfed lowland and upland zones to pinpoint exactly where water shortages stop field work.
 
 ---
 
@@ -34,18 +34,18 @@ Severe climatic shock events such as El Niño create major operational uncertain
 ### Page 1: El Niño Years Trends & Baseline Comparison
 ![Rice Planting Trends 1](Rice%20Planting%20Trends%201.png)
 
-* **Multi-Year Line Trajectory:** Plots monthly planting progressions from January through December, benchmarking individual El Niño cycles (`2018`, `2019`, `2023`, `2024`, `2025`) and current operations (`2026`) against the `Normal Year Average (2020–2022)`[cite: 33].
-* **Planting Share Distribution:** Proportional breakdown showing annual contribution shares and regional volume balances[cite: 33].
-* **Ecosystem Matrix Table:** Granular accounting matrix evaluating Irrigated vs. Rainfed (Lowland/Upland) areas across Aklan, Antique, Capiz, Guimaras, and Iloilo[cite: 33].
-* **Interactive Slicers:** Full dynamic slicing across Quarters (Q1–Q3), Months (Jan–Dec), Ecosystems, Sub-Ecosystems, and Seed Varieties[cite: 33].
+* **Multi-Year Line Trajectory:** Plots monthly planting progressions from January through December, benchmarking individual El Niño cycles (`2018`, `2019`, `2023`, `2024`, `2025`) and current operations (`2026`) against the `Normal Year Average (2020–2022)`.
+* **Planting Share Distribution:** Proportional breakdown showing annual contribution shares and regional volume balances.
+* **Ecosystem Matrix Table:** Granular accounting matrix evaluating Irrigated vs. Rainfed (Lowland/Upland) areas across Aklan, Antique, Capiz, Guimaras, and Iloilo.
+* **Interactive Slicers:** Full dynamic slicing across Quarters (Q1–Q3), Months (Jan–Dec), Ecosystems, Sub-Ecosystems, and Seed Varieties.
 
 ---
 
 ## 🔬 Key Agricultural Insights
 
-1. **Two-Month Planting Delay:** Under baseline conditions (`Normal Year Average 2020–2022`), peak regional planting occurs sharply in **June** (~120K ha)[cite: 33]. During El Niño shock periods (`2018`, `2019`, `2023`, `2024`), peak planting shifts two months backward into **August and September**[cite: 33].
-2. **Rainfed Vulnerability:** Rainfed lowland areas show severe contraction between May and July during drought years, accounting for over 55% of total delayed planting volume in Western Visayas[cite: 33].
-3. **Provincial Exposure:** Iloilo and Capiz report the highest absolute hectare shifts during severe dry events, driving regional demand for supplemental pump irrigation and adjusted seed distribution windows[cite: 33].
+1. **Two-Month Planting Delay:** Under baseline conditions (`Normal Year Average 2020–2022`), peak regional planting occurs sharply in **June** (~120K ha). During El Niño shock periods (`2018`, `2019`, `2023`, `2024`), peak planting shifts two months backward into **August and September**.
+2. **Rainfed Vulnerability:** Rainfed lowland areas show severe contraction between May and July during drought years, accounting for over 55% of total delayed planting volume in Western Visayas.
+3. **Provincial Exposure:** Iloilo and Capiz report the highest absolute hectare shifts during severe dry events, driving regional demand for supplemental pump irrigation and adjusted seed distribution windows.
 
 ---
 
@@ -154,7 +154,7 @@ in
 * **Business Intelligence Platform:** Power BI Desktop, Power BI Service
 * **Analytical Modeling:** Dynamic time-series baseline benchmarking, multi-year trend grouping
 * **ETL Engineering:** Power Query (M Language), schema unification, conditional labeling, text normalization
-* **Data Context:** Western Visayas Provincial Coverage (Aklan, Antique, Capiz, Guimaras, Iloilo)[cite: 33]
+* **Data Context:** Western Visayas Provincial Coverage (Aklan, Antique, Capiz, Guimaras, Iloilo)
 
 ---
 
