@@ -1,3 +1,5 @@
+<div align="center">
+
 # Rice Planting Trends & Climate Variability (El Niño Analysis 2018–2026)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop_%26_Service-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -6,19 +8,27 @@
 [![Region](https://img.shields.io/badge/Region-Western_Visayas_(Region_VI)-0A5C36)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success)](#)
 
+<p>
 An executive Business Intelligence reporting system designed for the Department of Agriculture Regional Field Office VI (Rice Program & Agricultural Statistics). This platform models nine years of monthly planting records to evaluate delayed monsoon shifts, quantify seasonal planting contractions, and assess ecosystem vulnerability caused by recurring El Niño weather cycles across Western Visayas.
+</p>
+
+</div>
 
 ---
 
-## 📊 Live Interactive Dashboard
+<h2 align="center">📊 Live Interactive Dashboard</h2>
+
+<div align="center">
 
 Explore the deployed Power BI Service report:
 
 👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODdlYmRiMDMtNDI0MS00NmRiLTk0YTItNmViNWE4NGRiZTM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D)**
 
+</div>
+
 ---
 
-## 🎯 Operational Background & Analytical Objective
+<h2 align="center">🎯 Operational Background & Analytical Objective</h2>
 
 Severe climatic shock events disrupt seasonal transplanting calendars across Western Visayas. When rainfall is curtailed, farmers postpone land preparation and nursery establishment, bunching harvesting schedules directly into high-risk monsoon and typhoon periods later in the year.
 
@@ -29,20 +39,34 @@ Severe climatic shock events disrupt seasonal transplanting calendars across Wes
 
 ---
 
-## 📸 Dashboard Architecture & Visual Walkthrough
+<h2 align="center">📸 Dashboard Architecture & Visual Walkthrough</h2>
+
+<div align="center">
 
 ### Page 1: El Niño Years Trends & Baseline Comparison
-![Page 1: El Niño Trends](Rice%20Planting%20Trends%201.png)
 
-* **Multi-Year Time-Series Trajectory:** Tracks monthly progress from January through December. It plots historical El Niño cycles (`2018`, `2019`, `2023`, `2024`, `2025`) alongside current `2026` operational progress against the `Normal Year Average (2020–2022)` benchmark.
-* **Planting Area Distribution by Year:** Proportional donut breakdown displaying annual contribution shares across all tracked historical cohorts.
-* **Provincial Ecosystem Matrix:** Granular matrix comparing Irrigated and Rainfed (Lowland/Upland) areas across Aklan, Antique, Capiz, Guimaras, and Iloilo.
-* **Global Dynamic Slicers:** Synchronized controls for Quarter, Month, Ecosystem, Sub-Ecosystem, and Seed Variety.
+<p align="center">
+  <img src="Rice%20Planting%20Trends%201.png" alt="Page 1: El Niño Trends" width="100%" />
+</p>
+
+</div>
+
+* **Multi-Year Time-Series Trajectory:** Tracks monthly progress from January through December. It plots historical El Niño cycles (`2018`, `2019`, `2023`, `2024`, `2025`) alongside current `2026` operational progress against the `Normal Year Average (2020–2022)` benchmark[cite: 33].
+* **Planting Area Distribution by Year:** Proportional donut breakdown displaying annual contribution shares across all tracked historical cohorts[cite: 33].
+* **Provincial Ecosystem Matrix:** Granular matrix comparing Irrigated and Rainfed (Lowland/Upland) areas across Aklan, Antique, Capiz, Guimaras, and Iloilo[cite: 33].
+* **Global Dynamic Slicers:** Synchronized controls for Quarter, Month, Ecosystem, Sub-Ecosystem, and Seed Variety[cite: 33].
 
 ---
 
+<div align="center">
+
 ### Page 2: El Niño Years Graphs (Comparative Visual Diagnostics)
-![Page 2: El Niño Graphs](Rice%20Planting%20Trends%202.png)
+
+<p align="center">
+  <img src="Rice%20Planting%20Trends%202.png" alt="Page 2: El Niño Graphs" width="100%" />
+</p>
+
+</div>
 
 * **Monthly Planting Variance Curves:** Direct area and trajectory comparisons illustrating month-by-month deficits and post-drought surges.
 * **Rainfed vs. Irrigated Resilience Tracking:** Visualizes the resilience gap between secure irrigated perimeters and climate-exposed rainfed tracts.
@@ -50,15 +74,15 @@ Severe climatic shock events disrupt seasonal transplanting calendars across Wes
 
 ---
 
-## 🔬 Core Agricultural & Policy Insights
+<h2 align="center">🔬 Core Agricultural & Policy Insights</h2>
 
-1. **Two-Month Peak Planting Lag:** Under normal conditions (`Normal Year Average 2020–2022`), peak planting activity across Western Visayas occurs in **June** (~120K ha). During acute El Niño cycles (`2018`, `2019`, `2023`, `2024`), peak planting shifts two months backward into **August and September**.
-2. **Extreme Rainfed Sensitivity:** Rainfed lowland areas contract sharply between May and July during drought years, representing over 55% of all delayed planting volume regionally.
-3. **Provincial Intervention Targeting:** Iloilo and Capiz report the largest absolute shifts in planted area during drought periods, establishing them as priority zones for pump distribution and adjusted certified seed allocation.
+1. **Two-Month Peak Planting Lag:** Under normal conditions (`Normal Year Average 2020–2022`), peak planting activity across Western Visayas occurs in **June** (~120K ha)[cite: 33]. During acute El Niño cycles (`2018`, `2019`, `2023`, `2024`), peak planting shifts two months backward into **August and September**[cite: 33].
+2. **Extreme Rainfed Sensitivity:** Rainfed lowland areas contract sharply between May and July during drought years, representing over 55% of all delayed planting volume regionally[cite: 33].
+3. **Provincial Intervention Targeting:** Iloilo and Capiz report the largest absolute shifts in planted area during drought periods, establishing them as priority zones for pump distribution and adjusted certified seed allocation[cite: 33].
 
 ---
 
-## 🏗️ Data Engineering & Analytical Logic
+<h2 align="center">🏗️ Data Engineering & Analytical Logic</h2>
 
 ### 1. Power Query (M) Pipeline: Schema Unification & Tagging
 The raw data combined archival annual reports (`2018–2025`) with active operational records (`2026`). 
@@ -86,13 +110,16 @@ IF(
 
 ---
 
-## 🛠️ Tools & Technologies Used
+<h2 align="center">🛠️ Tools & Technologies Used</h2>
+
 * **Business Intelligence Platform:** Power BI Desktop, Power BI Service
 * **Analytical Modeling:** Time-series benchmark modeling, dynamic context-aware DAX
 * **ETL Engineering:** Power Query (M Language), append operations, data hygiene & calendar sorting
-* **Domain Scope:** Western Visayas (Aklan, Antique, Capiz, Guimaras, Iloilo)
+* **Domain Scope:** Western Visayas (Aklan, Antique, Capiz, Guimaras, Iloilo)[cite: 33]
 
 ---
+
+<div align="center">
 
 ### 📫 Connect With Me
 
@@ -119,3 +146,5 @@ IF(
 <p align="center">
   <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
 </p>
+
+</div>
