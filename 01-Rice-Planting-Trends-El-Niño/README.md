@@ -89,3 +89,31 @@ IF(
 * **Calculations**: Data Analysis Expressions (DAX)
 * **Data Sourcing**: Department of Agriculture Regional Field Office VI Master Planting Datasets
 * **Domain**: Rice Sector Analytics, Agristat Climate Impact Assessment
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abiyverdugo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/abiyverdugo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:abegailvanjoverdugo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Abegail Vanjo (Abiy) G. Verdugo</b><br/>
+  <i>Information Systems Analyst II / Data Analyst</i><br/>
+  Department of Agriculture — Regional Field Office VI (Western Visayas)
+</p>
+
+<p align="center">
+  <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
+</p>
