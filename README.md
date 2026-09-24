@@ -50,6 +50,18 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 
 ---
 
+<h2 align="center">📋 Comprehensive Project Catalog</h2>
+
+| # | Project Name | Primary Focus | Modeling Architecture | Case Study | Interactive Demo |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| **01** | **Rice Planting Trends & El Niño Variability** | Climate shock analysis, delayed monsoon peaks, baseline benchmarking | Multi-year append, dynamic baseline DAX | [View Project](./01-Rice-Planting-Trends-El-Ni%C3%B1o/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODdlYmRiMDMtNDI0MS00NmRiLTk0YTItNmViNWE4NGRiZTM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+| **02** | **Annual & Seasonal Planting Analytics (2016–2026)** | 10-year trend monitoring, accomplishment rates, seed class adoption | Bi-directional cross-filtering, live Google Sheet append | [View Project](./02-Panay-Annual-and-Seasonal-Planting-2016-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc0ZGFkMjEtMTZmOS00Zjg1LWI4ODYtMDc0ZDA3NTg0ZWM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+| **03** | **Annual & Seasonal Harvest & Production (2016–2026)** | 10-year harvest trends, crop yields (MT/ha), volume metrics | Matrix unpivoting, deduplicated DAX measures | [View Project](./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWMzM2I1OWEtYzhkZS00OWNiLWE2ZTMtNzU2MzY5OTdiYTRlIiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+| **04** | **Panay Rice Cost Structure & Profitability (2025)** | Itemized expense shares, break-even thresholds, net income by method | Cloud Google Sheets ETL, dynamic format matrix | [View Project](./04-Panay-Rice-Cost-Structure-2025/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzcwMjE5MjUtODEwYy00ZDAzLTllZjUtYjk0OGIzOTFiNjc4IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+| **05** | **Rice Price Monitoring Analytics (2026)** | Weekly farmgate palay & retail milled rice market dynamics | In-memory buffered ETL, price category DAX | [View Project](./05-Panay-Rice-Price-Monitoring-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFhOWIxNGItOGMyMC00ZGUyLWE4MDgtZWQ0ZmJjMTU2NTI4IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+
+---
+
 <h2 align="center">🌾 Featured Projects</h2>
 
 ---
@@ -125,7 +137,7 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 
 <p align="center">
   <a href="./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/">
-    <img src="./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/Annual%20Harvest%202016-2026.png" alt="Annual Harvest Dashboard Preview" width="100%"/>
+    <img src="https://raw.githubusercontent.com/abiyverdugo/PowerBI-Portfolio/main/03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/Annual%20Harvest%202016-2026.png" alt="Annual Harvest Dashboard Preview" width="100%"/>
   </a>
 </p>
 
@@ -174,21 +186,41 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 
 ---
 
-<h2 align="center">📋 Comprehensive Project Catalog</h2>
+<div align="center">
 
-| # | Project Name | Primary Focus | Modeling Architecture | Case Study | Interactive Demo |
-| :---: | :--- | :--- | :--- | :---: | :---: |
-| **01** | **Rice Planting Trends & El Niño Variability** | Climate shock analysis, delayed monsoon peaks, baseline benchmarking | Multi-year append, dynamic baseline DAX | [View Project](./01-Rice-Planting-Trends-El-Ni%C3%B1o/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODdlYmRiMDMtNDI0MS00NmRiLTk0YTItNmViNWE4NGRiZTM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
-| **02** | **Annual & Seasonal Planting Analytics (2016–2026)** | 10-year trend monitoring, accomplishment rates, seed class adoption | Bi-directional cross-filtering, live Google Sheet append | [View Project](./02-Panay-Annual-and-Seasonal-Planting-2016-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc0ZGFkMjEtMTZmOS00Zjg1LWI4ODYtMDc0ZDA3NTg0ZWM2IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
-| **03** | **Annual & Seasonal Harvest & Production (2016–2026)** | 10-year harvest trends, crop yields (MT/ha), volume metrics | Matrix unpivoting, deduplicated DAX measures | [View Project](./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWMzM2I1OWEtYzhkZS00OWNiLWE2ZTMtNzU2MzY5OTdiYTRlIiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
-| **04** | **Panay Rice Cost Structure & Profitability (2025)** | Itemized expense shares, break-even thresholds, net income by method | Cloud Google Sheets ETL, dynamic format matrix | [View Project](./04-Panay-Rice-Cost-Structure-2025/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzcwMjE5MjUtODEwYy00ZDAzLTllZjUtYjk0OGIzOTFiNjc4IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+### [05. Western Visayas Rice Price Monitoring Analytics (2026)](./05-Panay-Rice-Price-Monitoring-2026/)
+
+[![View Live Dashboard](https://img.shields.io/badge/Power_BI_Live_Report-View_Interactive_Dashboard-0A5C36?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMWFhOWIxNGItOGMyMC00ZGUyLWE4MDgtZWQ0ZmJjMTU2NTI4IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D)
+[![Read Case Study](https://img.shields.io/badge/Documentation-Read_Full_Case_Study-blue?style=for-the-badge&logo=github)](./05-Panay-Rice-Price-Monitoring-2026/)
+
+#### 📸 Dashboard Preview
+
+<p align="center">
+  <a href="./05-Panay-Rice-Price-Monitoring-2026/">
+    <img src="https://raw.githubusercontent.com/abiyverdugo/PowerBI-Portfolio/main/05-Panay-Rice-Price-Monitoring-2026/Price%20Monitoring.png" alt="Price Monitoring Dashboard Preview" width="100%"/>
+  </a>
+</p>
+
+</div>
+
+#### 📌 Overview & Operational Value
+* **Business Problem:** Field price surveys were recorded in complex multi-header sheets, obscuring the difference between farmgate palay purchases and consumer market retail prices.
+* **The Analytics Solution:** Engineered an in-memory buffered ETL pipeline in Power Query to unpivot weekly records, pair categories with dynamic sort keys, and build DAX measures tracking price trends across fresh palay, dry palay, and milled rice grades.
+* **Key Findings:** Quantified the average ₱3.89/kg drying premium between fresh palay (₱18.93/kg) and dry palay (₱22.82/kg), while mapping the retail milling spread up to Regular Milled (₱45.49/kg) and Well Milled (₱49.56/kg).
+
+<div align="center">
+
+👉 **[Explore Full Project Case Study & DAX Code →](./05-Panay-Rice-Price-Monitoring-2026/)**
+
+</div>
+
 ---
 
 <h2 align="center">🔒 Data Source & Governance</h2>
 
 The analytical models in this portfolio are developed using regional agricultural statistics and operational records provided by the **Department of Agriculture Regional Field Office VI (Rice Program & Agricultural Statistics)**.
 
-> *Note: In compliance with government data management and privacy standards, raw operational datasets and internal administrative drives are restricted and not publicly accessible. Public interactive reports display aggregated, non-sensitive summary indicators for analytical demonstration.*
+> *Note: In compliance with government data management and privacy standards, raw operational datasets and internal administrative drives are restricted and not publicly accessible. Public interactive reports display aggregated, non-sensitive summary indicators for analytical demonstration.*[cite: 41]
 
 ---
 
