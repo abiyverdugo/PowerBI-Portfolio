@@ -51,10 +51,10 @@ Severe climatic shock events disrupt seasonal transplanting calendars across Wes
 
 </div>
 
-* **Multi-Year Time-Series Trajectory:** Tracks monthly progress from January through December. It plots historical El Niño cycles (`2018`, `2019`, `2023`, `2024`, `2025`) alongside current `2026` operational progress against the `Normal Year Average (2020–2022)` benchmark[cite: 33].
-* **Planting Area Distribution by Year:** Proportional donut breakdown displaying annual contribution shares across all tracked historical cohorts[cite: 33].
-* **Provincial Ecosystem Matrix:** Granular matrix comparing Irrigated and Rainfed (Lowland/Upland) areas across Aklan, Antique, Capiz, Guimaras, and Iloilo[cite: 33].
-* **Global Dynamic Slicers:** Synchronized controls for Quarter, Month, Ecosystem, Sub-Ecosystem, and Seed Variety[cite: 33].
+* **Multi-Year Time-Series Trajectory:** Tracks monthly progress from January through December. It plots historical El Niño cycles (`2018`, `2019`, `2023`, `2024`, `2025`) alongside current `2026` operational progress against the `Normal Year Average (2020–2022)` benchmark.
+* **Planting Area Distribution by Year:** Proportional donut breakdown displaying annual contribution shares across all tracked historical cohorts.
+* **Provincial Ecosystem Matrix:** Granular matrix comparing Irrigated and Rainfed (Lowland/Upland) areas across Aklan, Antique, Capiz, Guimaras, and Iloilo.
+* **Global Dynamic Slicers:** Synchronized controls for Quarter, Month, Ecosystem, Sub-Ecosystem, and Seed Variety.
 
 ---
 
@@ -76,9 +76,9 @@ Severe climatic shock events disrupt seasonal transplanting calendars across Wes
 
 <h2 align="center">🔬 Core Agricultural & Policy Insights</h2>
 
-1. **Two-Month Peak Planting Lag:** Under normal conditions (`Normal Year Average 2020–2022`), peak planting activity across Western Visayas occurs in **June** (~120K ha)[cite: 33]. During acute El Niño cycles (`2018`, `2019`, `2023`, `2024`), peak planting shifts two months backward into **August and September**[cite: 33].
-2. **Extreme Rainfed Sensitivity:** Rainfed lowland areas contract sharply between May and July during drought years, representing over 55% of all delayed planting volume regionally[cite: 33].
-3. **Provincial Intervention Targeting:** Iloilo and Capiz report the largest absolute shifts in planted area during drought periods, establishing them as priority zones for pump distribution and adjusted certified seed allocation[cite: 33].
+1. **Two-Month Peak Planting Lag:** Under normal conditions (`Normal Year Average 2020–2022`), peak planting activity across Western Visayas occurs in **June** (~120K ha). During acute El Niño cycles (`2018`, `2019`, `2023`, `2024`), peak planting shifts two months backward into **August and September**.
+2. **Extreme Rainfed Sensitivity:** Rainfed lowland areas contract sharply between May and July during drought years, representing over 55% of all delayed planting volume regionally.
+3. **Provincial Intervention Targeting:** Iloilo and Capiz report the largest absolute shifts in planted area during drought periods, establishing them as priority zones for pump distribution and adjusted certified seed allocation.
 
 ---
 
@@ -115,7 +115,7 @@ IF(
 * **Business Intelligence Platform:** Power BI Desktop, Power BI Service
 * **Analytical Modeling:** Time-series benchmark modeling, dynamic context-aware DAX
 * **ETL Engineering:** Power Query (M Language), append operations, data hygiene & calendar sorting
-* **Domain Scope:** Western Visayas (Aklan, Antique, Capiz, Guimaras, Iloilo)[cite: 33]
+* **Domain Scope:** Western Visayas (Aklan, Antique, Capiz, Guimaras, Iloilo)
 
 ---
 
