@@ -218,7 +218,7 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 
 <h2 align="center">🔒 Data Source & Governance</h2>
 
-The analytical models in this portfolio are developed using regional agricultural statistics and operational records provided by the **Department of Agriculture Regional Field Office VI (Rice Program & Agricultural Statistics)**.
+The analytical models in this portfolio are developed using regional agricultural statistics and operational records provided by the **Department of Agriculture Regional Field Office VI (Rice Program & Agricultural Statistics)**[cite: 41].
 
 > *Note: In compliance with government data management and privacy standards, raw operational datasets and internal administrative drives are restricted and not publicly accessible. Public interactive reports display aggregated, non-sensitive summary indicators for analytical demonstration.*[cite: 41]
 
