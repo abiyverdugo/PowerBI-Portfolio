@@ -116,15 +116,31 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 
 <div align="center">
 
-### [03. Panay Rice Cost Structure & Profitability 2025](#) *(In Development)*
+### [03. Panay & Guimaras Rice Harvest & Production Analytics (2016–2026)](./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/)
+
+[![View Live Dashboard](https://img.shields.io/badge/Power_BI_Live_Report-View_Interactive_Dashboard-0A5C36?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiYWMzM2I1OWEtYzhkZS00OWNiLWE2ZTMtNzU2MzY5OTdiYTRlIiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D)
+[![Read Case Study](https://img.shields.io/badge/Documentation-Read_Full_Case_Study-blue?style=for-the-badge&logo=github)](./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/)
+
+#### 📸 Dashboard Preview
+
+<p align="center">
+  <a href="./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/">
+    <img src="./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/Annual%20Harvest%202016-2026.png" alt="Annual Harvest Dashboard Preview" width="100%"/>
+  </a>
+</p>
 
 </div>
 
-* **Domain:** Agricultural Economics, Break-Even Analysis, Farm Profitability
-* **Summary:** Evaluates production methods (Irrigated vs. Rainfed, Hybrid vs. Inbred, Mechanical TPR vs. Direct Wet Seeding) across unit costs, break-even thresholds (₱/kg and kg/ha), and Return on Investment (ROI %).
-* **Core Technique:** Disconnected metric matrix tables, Dynamic Format Strings (`/kg`).
+#### 📌 Overview & Operational Value
+* **Business Problem:** Tracking municipal harvest milestones and production volumes required combining scattered Excel files with differing matrix layouts and preventing duplicated seed totals.
+* **The Analytics Solution:** Designed an automated ETL process that unpivots multi-tier seed matrices across 10 years of archives and live Google Sheet records, computing accurate crop yields (MT/ha) and total volumes (MT).
+* **Key Findings:** Confirmed that hybrid seeds produce the highest average yields (5.14 MT/ha), with Iloilo leading regional rice output at over 20 million metric tons produced between 2016 and 2026.
 
----
+<div align="center">
+
+👉 **[Explore Full Project Case Study & DAX Code →](./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/)**
+
+</div>
 
 <div align="center">
 
