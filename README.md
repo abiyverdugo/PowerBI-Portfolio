@@ -142,15 +142,35 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 
 </div>
 
+---
+
 <div align="center">
 
-### [04. Panay Rice Price Monitoring 2026](#) *(In Development)*
+### [04. Panay & Guimaras Rice Cost Structure & Profitability (2025)](./04-Panay-Rice-Cost-Structure-2025/)
+
+[![View Live Dashboard](https://img.shields.io/badge/Power_BI_Live_Report-View_Interactive_Dashboard-0A5C36?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNzcwMjE5MjUtODEwYy00ZDAzLTllZjUtYjk0OGIzOTFiNjc4IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D)
+[![Read Case Study](https://img.shields.io/badge/Documentation-Read_Full_Case_Study-blue?style=for-the-badge&logo=github)](./04-Panay-Rice-Cost-Structure-2025/)
+
+#### 📸 Dashboard Preview
+
+<p align="center">
+  <a href="./04-Panay-Rice-Cost-Structure-2025/">
+    <img src="https://raw.githubusercontent.com/abiyverdugo/PowerBI-Portfolio/main/04-Panay-Rice-Cost-Structure-2025/Cost%20Structure.png" alt="Cost Structure Dashboard Preview" width="100%"/>
+  </a>
+</p>
 
 </div>
 
-* **Domain:** Market Intelligence & Weekly Farmgate Price Fluctuations
-* **Summary:** Real-time tracking of fresh palay, dry palay, regular milled rice (RMR), and well-milled rice (WMR) across all 5 Panay-Guimaras provinces.
-* **Core Technique:** Multi-card visual layouts, price spread variance measures.
+#### 📌 Overview & Operational Value
+* **Business Problem:** Comparing rice production expenses across Panay was previously slowed down by separate provincial spreadsheets with inconsistent cost items.
+* **The Analytics Solution:** Built an automated Power Query pipeline connecting multi-province Google Sheets, standardizing expenses into Inputs, Labor, and Miscellaneous categories, while calculating break-even prices (₱/kg) and break-even yields (kg/ha).
+* **Key Findings:** Revealed that field labor represents 57% of total farm spending, while mechanized transplanting paired with hybrid seeds yields the highest net cash returns per hectare.
+
+<div align="center">
+
+👉 **[Explore Full Project Case Study & DAX Code →](./04-Panay-Rice-Cost-Structure-2025/)**
+
+</div>
 
 ---
 
