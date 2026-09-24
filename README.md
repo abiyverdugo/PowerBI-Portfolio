@@ -59,6 +59,7 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 | **03** | **Annual & Seasonal Harvest & Production (2016–2026)** | 10-year harvest trends, crop yields (MT/ha), volume metrics | Matrix unpivoting, deduplicated DAX measures | [View Project](./03-Panay-Annual-and-Seasonal-Harvest-and-Production-2016-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWMzM2I1OWEtYzhkZS00OWNiLWE2ZTMtNzU2MzY5OTdiYTRlIiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
 | **04** | **Panay Rice Cost Structure & Profitability (2025)** | Itemized expense shares, break-even thresholds, net income by method | Cloud Google Sheets ETL, dynamic format matrix | [View Project](./04-Panay-Rice-Cost-Structure-2025/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzcwMjE5MjUtODEwYy00ZDAzLTllZjUtYjk0OGIzOTFiNjc4IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
 | **05** | **Rice Price Monitoring Analytics (2026)** | Weekly farmgate palay & retail milled rice market dynamics | In-memory buffered ETL, price category DAX | [View Project](./05-Panay-Rice-Price-Monitoring-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFhOWIxNGItOGMyMC00ZGUyLWE4MDgtZWQ0ZmJjMTU2NTI4IiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
+| **06** | **Planting Period & Crop Stage Monitoring (2026)** | Bi-weekly planting progression, unique farmers, dynamic growth stages | Days After Planting (DAP) engine, deduplicated SUMX | [View Project](./06-Panay-Rice-Planting-Period-and-Crop-Stage-Monitoring-2026/) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzU4NTVjMDUtMDI2NC00OTliLWIxZWUtNTJiNTg5NDZiMWZkIiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D) |
 
 ---
 
@@ -211,6 +212,36 @@ I am an **Information Systems Analyst II / Data Analyst** at the Department of A
 <div align="center">
 
 👉 **[Explore Full Project Case Study & DAX Code →](./05-Panay-Rice-Price-Monitoring-2026/)**
+
+</div>
+
+---
+
+<div align="center">
+
+### [06. Western Visayas Rice Planting Period & Crop Growth Stage Monitoring (2026)](./06-Panay-Rice-Planting-Period-and-Crop-Stage-Monitoring-2026/)
+
+[![View Live Dashboard](https://img.shields.io/badge/Power_BI_Live_Report-View_Interactive_Dashboard-0A5C36?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNzU4NTVjMDUtMDI2NC00OTliLWIxZWUtNTJiNTg5NDZiMWZkIiwidCI6IjI1MzYzMDI3LTUyNjQtNGE1Mi04MmRjLTgzYWNiZTMwY2M4YiIsImMiOjEwfQ%3D%3D)
+[![Read Case Study](https://img.shields.io/badge/Documentation-Read_Full_Case_Study-blue?style=for-the-badge&logo=github)](./06-Panay-Rice-Planting-Period-and-Crop-Stage-Monitoring-2026/)
+
+#### 📸 Dashboard Preview
+
+<p align="center">
+  <a href="./06-Panay-Rice-Planting-Period-and-Crop-Stage-Monitoring-2026/">
+    <img src="https://raw.githubusercontent.com/abiyverdugo/PowerBI-Portfolio/main/06-Panay-Rice-Planting-Period-and-Crop-Stage-Monitoring-2026/Planting%20Period.png" alt="Planting Period Dashboard Preview" width="100%"/>
+  </a>
+</p>
+
+</div>
+
+#### 📌 Overview & Operational Value
+* **Business Problem:** Static spreadsheets made it impossible to see which growth phase standing crops were in, leaving disaster assessment teams without clear visibility on crop damage vulnerability.
+* **The Analytics Solution:** Developed a dynamic Days After Planting (DAP) model that computes crop maturity phases in real time from an evaluation calendar, while deduplicating unique participating farmer headcounts across bi-weekly periods.
+* **Key Findings:** Revealed that 92.6% of regional rice acreage is established through direct seeding, with 157,408 unique farmers reaching 91.05% accomplishment against the physical rice land baseline.
+
+<div align="center">
+
+👉 **[Explore Full Project Case Study & DAX Code →](./06-Panay-Rice-Planting-Period-and-Crop-Stage-Monitoring-2026/)**
 
 </div>
 
